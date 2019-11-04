@@ -13,7 +13,7 @@ I've covered all the necessary background information and now I'm doing research
 
 **– technical challenges met, solved and remaining**
 
-The main problem I've had, is making the jump from consumer electronics to academic research. It's hard to cut through the corporate branding and find out what area of research underlies the advances in camera technology that the smartphone makers are advertising. For example, the Huawei P30 has something Huawei calls a "SuperSpectrum sensor". Figuring out the academic name for that branded technology and finding research papers related to it can be difficult.
+The main problem I've had is making the jump from consumer electronics to academic research. It's hard to cut through the corporate branding and find out what area of research underlies the advances in camera technology that the smartphone makers are advertising. For example, the Huawei P30 has something Huawei calls a "SuperSpectrum sensor". Figuring out the academic name for that branded technology and finding research papers related to it can be difficult.
 
 One thing I've found useful for this is referencing articles from sites like Android Authority and DXOMark, which are more in-depth than typical popular technology blogs. These serve as a good middle ground between consumer-focused articles and proper academic papers, and searching for keywords found on these sites has been useful for bringing up the academic research. For example I learned that combining images from multiple cameras is called "multi-frame" and searching for that on Google Scholar brought up a lot of the research I was interested in.
 
