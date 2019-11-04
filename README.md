@@ -5,7 +5,7 @@ I've decided to host the research part of my project in a "living document" on g
 
 https://docs.google.com/document/d/1IiFRnD1gpJwaGPcfugG4IZJxszwW8iYW4FDKzdzLrao/edit?usp=sharing
 
-Midterm Update:
+# Midterm Update:
 
 **– on the progresses with regard to the schedule**
 
